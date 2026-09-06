@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MADD_Tutorial05</string>
+    <string name="accelerometer_waiting">Accelerometer: Waiting for data&#8230;</string>
+    <string name="proximity_waiting">Proximity: Waiting for data&#8230;</string>
+    <string name="light_waiting">Light: Waiting for data&#8230;</string>
+</resources>
